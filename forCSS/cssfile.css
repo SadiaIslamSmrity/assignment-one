@@ -193,3 +193,24 @@ nav{
 .btn2:hover{
     background-color: skyblue;
 }
+.f1{
+    font-size: 100px;
+    color: blue;
+    font-weight: bolder;
+    text-align: center;
+}
+.f2{
+    font-size: 18px;
+    font-weight: lighter;
+    text-align: center;
+    width: 800px;
+    margin: 0 auto;
+}
+.fList{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+    width: 800px;
+    margin: 80px auto;
+}
