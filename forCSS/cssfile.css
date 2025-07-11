@@ -62,3 +62,30 @@ nav{
 .img{
     border-radius: 30px;
 }
+.partThree{
+    padding: 50px 130px;
+    background-color: rgba(181, 160, 221, 0.408);
+    margin: 50px 130px;
+    border-radius: 20px;
+    align-items: center;
+}
+.nested{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#joined{
+    text-align: center;
+}
+.big{
+    font-size: 80px;
+    color: blue;
+    font-weight: bold;
+    list-style: none;
+}
+.small{
+    font-size: 20px;
+    color: gray;
+    font-weight: lighter;
+    list-style: none;
+}
